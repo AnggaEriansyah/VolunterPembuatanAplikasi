@@ -4,5 +4,5 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 **\* Nama Lengkap, [Nama Portofolio](Alamat Portofolio)**
 
 Berikut daftar Volunter yang diterima:
-
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Angga Eriansyah, [Linkedin](https://www.linkedin.com/in/angga-eriansyah-1b05401a1/).
